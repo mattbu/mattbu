@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattbu&show_icons=true&theme=스타일)
+![mattbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattbu&show_icons=true&theme=스타일)
 
 <!--
 **mattbu/mattbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
