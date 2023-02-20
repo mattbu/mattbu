@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Hyeonuk's&nbsp;Github&fontSize=72&fontColor=ffffff&color=203261)
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hyeonuk's&nbsp;Github&fontSize=32&fontColor=ffffff&color=203261&fontAlignY=32)
 
 ![mattbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattbu&show_icons=true)
 
