@@ -4,6 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattbu&layout=compact)
 
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=203261)
+
 <!--
 **mattbu/mattbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
