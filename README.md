@@ -14,7 +14,10 @@ Email: chillysaucing@gmail.com
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Amazonasd-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
+
 </div>
+
 ![mattbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattbu&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattbu&layout=compact)
