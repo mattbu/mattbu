@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hyeonuk's&nbsp;Github&fontSize=32&fontColor=ffffff&color=203261&fontAlignY=32)
-
+Email: chillysaucing@gmail.com
+##### 📚 Currently learning 📚
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
 ![mattbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattbu&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattbu&layout=compact)
