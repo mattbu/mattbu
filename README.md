@@ -3,7 +3,6 @@
 <span><b>Email:</b></span>
 chillysaucing@gmail.com
 
-<hr>
   
 #### 📚 Currently learning 📚
 
