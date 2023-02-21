@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hyeonuk's&nbsp;Github&fontSize=32&fontColor=f9f7f5&color=203261&fontAlign=20&fontAlignY=32)
  
-##### Email:
+<span><b>Email:</b></span>
 chillysaucing@gmail.com
   
 ##### 📚 Currently learning 📚
