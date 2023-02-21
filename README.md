@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hyeonuk's&nbsp;Github&fontSize=32&fontColor=f9f7f5&color=203261&fontAlignY=32)
 <div>
-  <b>Email:</b> <a>chillysaucing@gmail.com</a>
+  <b>Email:</b>
+  <a>chillysaucing@gmail.com</a>
 </div>
 
 ##### 📚 Currently learning 📚
