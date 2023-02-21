@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hyeonuk's&nbsp;Github&fontSize=32&fontColor=ffffff&color=203261&fontAlignY=32)
 Email: chillysaucing@gmail.com
 ##### 📚 Currently learning 📚
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Vue.js-#4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 
 ![mattbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattbu&show_icons=true)
 
