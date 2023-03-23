@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hyeonuk's&nbsp;Github&fontSize=32&fontColor=f9f7f5&color=203261&fontAlign=20&fontAlignY=32)
- 
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hyeonuk's&nbsp;Github&fontSize=32&fontColor=f9f7f5&color=203261&fontAlign=20&fontAlignY=32)
+  -->
 <span><b>Email:</b></span>
 chillysaucing@gmail.com
 
@@ -28,7 +28,7 @@ chillysaucing@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattbu&layout=compact)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=203261)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=203261) -->
 
 <!--
 **mattbu/mattbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
