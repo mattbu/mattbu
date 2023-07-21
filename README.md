@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hyeonuk's&nbsp;Github&fontSize=32&fontColor=f9f7f5&color=203261&fontAlign=20&fontAlignY=32)
   -->
-<span><b>Email:</b></span>
+<span>📨 <b>Email:</b></span>
 chillysaucing@gmail.com
 
   
@@ -24,9 +24,8 @@ chillysaucing@gmail.com
 </div>
 <br>
 
-![mattbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattbu&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattbu&layout=compact)
+<!-- ![mattbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattbu&show_icons=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattbu&layout=compact) -->
 
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=203261) -->
 
